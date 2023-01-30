@@ -27,8 +27,8 @@ dependencies {
 	implementation 'io.springfox:springfox-swagger-ui:3.0.0'
 	
 	// Database
-	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.2'
-	implementation 'org.springframework.boot:spring-boot-starter-jdbc:2.6.6'
+	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.0'
+	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
 	implementation 'mysql:mysql-connector-java'
 	
 	// JWT
